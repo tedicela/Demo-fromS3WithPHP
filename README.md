@@ -1,2 +1,2 @@
 # Demo-fromS3WithPHP
-Generate temporary link to download private files from Amazon S3
+Generate temporary link to download private files from Amazon S3 with PHP
